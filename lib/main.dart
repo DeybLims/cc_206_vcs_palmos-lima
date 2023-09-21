@@ -1,5 +1,7 @@
-// {Dave Emanuel Lima}: Acta, non verba.
-// {John Richard Palmos}: Gort Klaatu barada nikto.
+/*
+LIMA, Dave Emmanuel: Acta, non verba.
+PALMOS, John Richard: gort klaatu barada nikto.
+*/
 
 import 'package:flutter/material.dart';
 
