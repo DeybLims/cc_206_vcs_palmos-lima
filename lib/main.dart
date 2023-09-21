@@ -1,3 +1,6 @@
+// {Dave Emanuel Lima}: Acta, non verba.
+// {John Richard Palmos}: Gort Klaatu barada nikto.
+
 import 'package:flutter/material.dart';
 
 void main() {
