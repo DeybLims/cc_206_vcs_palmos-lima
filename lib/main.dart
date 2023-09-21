@@ -2,10 +2,7 @@
 LIMA, Dave Emmanuel: Acta, non verba.
 PALMOS, John Richard: gort klaatu barada nikto.
 */
-<<<<<<< HEAD
 
-=======
->>>>>>> c252eb10a51611daafb8c3dddbd8672c996d50c8
 import 'package:flutter/material.dart';
 
 void main() {
